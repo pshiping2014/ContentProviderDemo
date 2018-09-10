@@ -24,9 +24,6 @@
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
     <loaded-nodes>
-      <connection connection-id="db314a79-7b86-4b1b-8e4e-d8b8b052dbcc">
-        <schema name="main" object-types="table" />
-      </connection>
       <connection connection-id="1d826e8c-a878-46f0-88a7-540dc81aa17b">
         <schema name="main" object-types="table, view" />
       </connection>
